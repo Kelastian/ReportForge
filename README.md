@@ -4,11 +4,8 @@ ReportForge is a small ASP.NET Core MVC app that turns pasted CSV transaction da
 instant business report — totals, category breakdown, top categories by spend, and date range —
 computed by a layered, interface-driven backend with full unit test coverage.
 
-![ReportForge — empty state, paste CSV data](docs/screenshot-empty.png)
-![ReportForge — generated report](docs/screenshot-report.png)
-
-*(Screenshots above are placeholders — run the app locally with `dotnet run --project
-src/ReportForge.Web`, load the sample data, and save your own into `docs/`.)*
+![ReportForge — empty state, paste CSV data](docs/0.png)
+![ReportForge — generated report](docs/1.png)
 
 ## Architecture
 

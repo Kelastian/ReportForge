@@ -9,6 +9,7 @@ out/
 .idea/
 *.user
 *.suo
+claude.md
 
 ## OS
 .DS_Store
