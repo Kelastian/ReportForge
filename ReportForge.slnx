@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ReportForge.Application/ReportForge.Application.csproj" />
+    <Project Path="src/ReportForge.Domain/ReportForge.Domain.csproj" />
+    <Project Path="src/ReportForge.Infrastructure/ReportForge.Infrastructure.csproj" />
+    <Project Path="src/ReportForge.Web/ReportForge.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ReportForge.Tests/ReportForge.Tests.csproj" />
+  </Folder>
+</Solution>
